@@ -1,5 +1,5 @@
 ### Hi, I'm Georgie! 👋
-Electronic Engineer with a interest in building tools for creative applications.
+Electronic Engineer with interest in building tools for creative applications.
 
 🛠 Experience with Arduino, C++ and C# with Unity
 
