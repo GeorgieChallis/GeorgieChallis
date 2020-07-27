@@ -1,4 +1,6 @@
-### Hi, I'm Georgie! 👋
+### 👋
+<img src="https://github.com/GeorgieChallis/GeorgieChallis/blob/master/p5-background/img.png" width="800">
+
 Electronic Engineer with interest in building tools for creative applications.
 
   🛠 Experience with Arduino, C++ and C# with Unity
