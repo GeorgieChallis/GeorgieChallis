@@ -1,10 +1,10 @@
-### 👋
 <img src="https://github.com/GeorgieChallis/GeorgieChallis/blob/master/p5-background/img.gif" width="700">
 
-Electronic Engineer with interest in building tools for creative applications.
-
-  🛠 Experience with Arduino, C++ and C# with Unity
-    🌱 Currently learning Python, further OpenGL and Unreal Engine.
+ Electronic Engineer with interest in building tools for creative applications.
+ 
+ 🛠 Experience with Arduino, C++ and C# with Unity
+ 
+ 🌱 Currently learning Python, OpenGL and Unreal Engine.
 
 <!--
 **GeorgieChallis/GeorgieChallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
