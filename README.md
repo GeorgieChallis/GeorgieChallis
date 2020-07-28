@@ -1,5 +1,5 @@
 ### 👋
-<img src="https://github.com/GeorgieChallis/GeorgieChallis/blob/master/p5-background/img.png" width="720">
+<img src="https://github.com/GeorgieChallis/GeorgieChallis/blob/master/p5-background/img.gif" width="700">
 
 Electronic Engineer with interest in building tools for creative applications.
 
