@@ -2,7 +2,7 @@
  <img src="https://github.com/GeorgieChallis/GeorgieChallis/blob/master/p5-background/img.gif" width="720">
 </p>
 
-💡 Electronic Engineer with interest in building tools for creative applications.
+💡 Developer/Engineer with interest in building tools for creative applications.
  
 🛠 Experience with Arduino, C++ and C# with Unity
  
