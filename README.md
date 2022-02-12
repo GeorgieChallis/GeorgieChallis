@@ -1,9 +1,7 @@
-<p align="center">
- <img src="" width="720">
-</p>
+💡 Software Engineer - Virtual Production, MoCap and XR. 💡
 
-💡 Developer/Engineer with interest in building tools for creative applications.
-🛠 Experience with Python, C++ and C# with Unity
-🌱 Currently learning OpenGL and Unreal Engine.
+🛠 Python, C++ and C# 🛠
+
+🌱 Learning Unreal and AI for VFX 🌱
 
 <!-- **GeorgieChallis/GeorgieChallis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
